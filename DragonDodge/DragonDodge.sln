@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Phone
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DragonDodge", "DragonDodge\DragonDodge\DragonDodge.csproj", "{A4416BBE-D86E-4266-BF2D-7E5F5A47C8A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DragonDodgeContent", "DragonDodge\DragonDodgeContent\DragonDodgeContent.contentproj", "{3CCA7350-0AEF-45FA-AD83-0F65D04F2D4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Windows Phone = Debug|Windows Phone
+		Release|Windows Phone = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A4416BBE-D86E-4266-BF2D-7E5F5A47C8A7}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{A4416BBE-D86E-4266-BF2D-7E5F5A47C8A7}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{A4416BBE-D86E-4266-BF2D-7E5F5A47C8A7}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{A4416BBE-D86E-4266-BF2D-7E5F5A47C8A7}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{A4416BBE-D86E-4266-BF2D-7E5F5A47C8A7}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{A4416BBE-D86E-4266-BF2D-7E5F5A47C8A7}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{3CCA7350-0AEF-45FA-AD83-0F65D04F2D4A}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{3CCA7350-0AEF-45FA-AD83-0F65D04F2D4A}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -30,8 +30,6 @@ Content\Enemy1\Enemy01Assset0016.xnb
 Content\Enemy1\Enemy01Assset0017.xnb
 Content\HealthBar.xnb
 Content\HealthBarEdited.xnb
-Content\TestXml.xnb
-Content\ding.xnb
 Content\backgroundassetSIMPLIFIED20485.xnb
 Content\KnightDying\KnightAssetUser_HIT0001.xnb
 Content\KnightDying\KnightAssetUser_HIT0002.xnb
@@ -46,3 +44,5 @@ Content\KnightDying\KnightAssetUser_HIT0010.xnb
 Content\KnightDying\KnightAssetUser_HIT0011.xnb
 Content\KnightDying\KnightAssetUser_HIT0012.xnb
 Content\KnightDying\KnightAssetUser_HIT0013.xnb
+Content\TestXml.xnb
+Content\ding.xnb
